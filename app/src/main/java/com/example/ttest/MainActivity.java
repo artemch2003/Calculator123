@@ -27,3 +27,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Toast.makeText(this, s, Toast.LENGTH_SHORT).show();
     }
 }
+//TODO: create class calculator
